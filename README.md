@@ -7,6 +7,10 @@ This repo is a demo project to show how you can add alternative frontends to nar
 ### How to run?
 
 1. Make sure you have `noirup` installed. 
+It can be installed with the following script
+```sh
+curl -L https://raw.githubusercontent.com/noir-lang/noirup/main/install | bash
+```
 2. Go and clone this [branch of noir](https://github.com/noir-lang/noir/tree/md/solidity-circuits)
 3. Run `noirup -p .` to replace your local nargo binary with the one with solidity support
 4. Run `nargo check` to generate prover toml etc
