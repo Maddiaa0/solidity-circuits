@@ -1,6 +1,5 @@
-[package]
-name = "sol_test"
-type = "sol"
-authors = [""]
-
-[dependencies]
+[workspace]
+members = [
+    "add", 
+    "if"
+]
