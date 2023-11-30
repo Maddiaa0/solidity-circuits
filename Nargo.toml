@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "add", 
-    "if"
+    "if",
+    "for"
 ]

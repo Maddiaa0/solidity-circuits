@@ -1,0 +1,6 @@
+[package]
+name = "for_test"
+type = "sol"
+authors = [""]
+
+[dependencies]
